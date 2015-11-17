@@ -5,5 +5,5 @@ This script is based on the MDN example below, but has been modified in a way th
 
 ##Reference
 
-Why you should throttle your scroll listener | [Source - MDN](https://developer.mozilla.org/en-US/docs/Web/Events/scroll#Example)
-Custom Event Polyfill for IE 9+ | [Source](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent#Polyfill)
+- Why you should throttle your scroll listener | [Source - MDN](https://developer.mozilla.org/en-US/docs/Web/Events/scroll#Example)
+- Custom Event Polyfill for IE 9+ | [Source](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent#Polyfill)
